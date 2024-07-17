@@ -22,9 +22,9 @@ function Home() {
                         />
                     </h3>
                     <div className='home-link'>
-                        <a href="https://www.linkedin.com/in/elizabeth-kannamma-100139292/"><LinkedInIcon /></a>
-                        <a href="https://github.com/thisiskannamma"><GitHubIcon /></a>
-                        <a href="elizabethkannamma@gmail.com"><MailIcon /></a>
+                        <a target="_blank" href="https://www.linkedin.com/in/elizabeth-kannamma-100139292/"><LinkedInIcon /></a>
+                        <a target="_blank" href="https://github.com/thisiskannamma"><GitHubIcon /></a>
+                        <a target="_blank" href="elizabethkannamma@gmail.com"><MailIcon /></a>
                     </div>
                     <a target='_blank' href="https://drive.google.com/file/d/1vlVDzHhl0vPcHrIag_P4JsYzSIAjXTky/view?usp=drive_link" className='btn-box'>Download CV</a>
                     <a href="#about" className='btn-box'>More About Me</a>
