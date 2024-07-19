@@ -12,7 +12,7 @@ function Header() {
       <header className='header'>
         <a className='logo' href="">Portfolio</a>
         <nav className='navbar'>
-          <Link to="/" activeClass="active"
+          <Link to="home" activeClass="active"
             spy={true}
             smooth={true}
             offset={50}

@@ -21,7 +21,7 @@ function Projects() {
                                 <div className='layer'>
                                     <h5>Construction Material App</h5>
                                     <p>Developed a construction Material App for ordering construction material for building Projects like dam,house,bridges,etc</p>
-                                    <a href=""><LaunchIcon style={{ color: 'white' }} /></a>
+                                    <a target='_blank' href="https://669a26ef52b089f891c88308--cozy-crisp-c9bc77.netlify.app/register"><LaunchIcon style={{ color: 'white' }} /></a>
                                 </div>
                             </div>
                             <div className='row'>
