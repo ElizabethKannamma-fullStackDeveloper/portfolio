@@ -34,8 +34,9 @@ function Header() {
             smooth={true}
             offset={50}
             duration={500} >Projects</Link>
-          <a target='_blank' href="https://drive.google.com/file/d/1vlVDzHhl0vPcHrIag_P4JsYzSIAjXTky/view?usp=drive_link">Resume</a>
           <a href="">Contact</a>
+
+          <a target='_blank' href="https://drive.google.com/file/d/1vlVDzHhl0vPcHrIag_P4JsYzSIAjXTky/view?usp=drive_link">Resume</a>
 
         </nav>
       </header>

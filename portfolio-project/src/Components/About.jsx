@@ -1,12 +1,11 @@
 import React from 'react'
-import Header from './Header'
-
+import "../App.css"
 function About() {
   return (
     <>
       <section className='about' id='about'>
         <div className='about-img'>
-          <img src="" alt="" />
+          <img src="./image/portfolio.jpg" alt="" />
         </div>
         <div className='about-text'>
           <h2>About <span>Me</span></h2>

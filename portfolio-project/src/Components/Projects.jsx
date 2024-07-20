@@ -1,5 +1,7 @@
 import React from 'react'
 import LaunchIcon from '@mui/icons-material/Launch';
+import GitHubIcon from '@mui/icons-material/GitHub';
+
 function Projects() {
     return (
         <>
@@ -13,15 +15,22 @@ function Projects() {
                                 <div className='layer'>
                                     <h5>KITCHEN RECIPE MANAGEMENT</h5>
                                     <p>Developed a recipe management web app with CRUD operations for ingredient</p>
-                                    <a target='_blank' href="https://65c200d593f7ee0008fd5995--zippy-sunflower-8dbb58.netlify.app/register"><LaunchIcon style={{ color: 'white' }} /></a>
+                                    <div className='anchor'>
+                                        <a target='_blank' href="https://65c200d593f7ee0008fd5995--zippy-sunflower-8dbb58.netlify.app/register"><LaunchIcon style={{ color: 'white' }} fontSize="large" /></a>
+                                        <a target='_blank' href=""><GitHubIcon style={{ color: 'white' }} fontSize="large" /></a>
+                                    </div>
                                 </div>
+
                             </div>
                             <div className='row'>
                                 <img src="https://png.pngtree.com/thumb_back/fh260/back_pic/03/99/34/9157f8a1aa03575.jpg" alt="image" />
                                 <div className='layer'>
                                     <h5>Construction Material App</h5>
                                     <p>Developed a construction Material App for ordering construction material for building Projects like dam,house,bridges,etc</p>
-                                    <a target='_blank' href="https://669a26ef52b089f891c88308--cozy-crisp-c9bc77.netlify.app/register"><LaunchIcon style={{ color: 'white' }} /></a>
+                                    <div className='anchor'>
+                                        <a target='_blank' href="https://669b663965092496d54a72f8--candid-biscochitos-ec0df5.netlify.app/register"><LaunchIcon style={{ color: 'white' }} fontSize="large" /></a>
+                                        <a target='_blank' href=""><GitHubIcon style={{ color: 'white' }} fontSize="large" /></a>
+                                    </div>
                                 </div>
                             </div>
                             <div className='row'>
@@ -29,7 +38,10 @@ function Projects() {
                                 <div className='layer'>
                                     <h5>UI/UX Design</h5>
                                     <p>Developed a recipe management web app with CRUD operations for ingredient</p>
-                                    <a href=""><LaunchIcon style={{ color: 'white' }} /></a>
+                                    <div className='anchor'>
+                                        <a target='_blank' href="https://65c200d593f7ee0008fd5995--zippy-sunflower-8dbb58.netlify.app/register"><LaunchIcon style={{ color: 'white' }} fontSize="large" /></a>
+                                        <a target='_blank' href="https://65c200d593f7ee0008fd5995--zippy-sunflower-8dbb58.netlify.app/register"><GitHubIcon style={{ color: 'white' }} fontSize="large" /></a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
