@@ -26,7 +26,7 @@ function Home() {
                         <a target="_blank" href="https://github.com/thisiskannamma"><GitHubIcon /></a>
                         <a target="_blank" href="elizabethkannamma@gmail.com"><MailIcon /></a>
                     </div>
-                    <a target='_blank' href="https://drive.google.com/file/d/1vlVDzHhl0vPcHrIag_P4JsYzSIAjXTky/view?usp=drive_link" className='btn-box'>Download CV</a>
+                    <a target='_blank' href="https://drive.google.com/file/d/1fJkWvH2O8Ye3qrC9uo_OP6vTItIZJMCm/view?usp=sharing" className='btn-box'>Download CV</a>
                     <a href="#about" className='btn-box'>More About Me</a>
                 </div>
             </section>
