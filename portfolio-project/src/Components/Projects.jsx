@@ -17,7 +17,7 @@ function Projects() {
                                     <p>Developed a recipe management web app with CRUD operations for ingredient</p>
                                     <div className='anchor'>
                                         <a target='_blank' href="https://65c200d593f7ee0008fd5995--zippy-sunflower-8dbb58.netlify.app/register"><LaunchIcon style={{ color: 'white' }} fontSize="large" /></a>
-                                        <a target='_blank' href=""><GitHubIcon style={{ color: 'white' }} fontSize="large" /></a>
+                                        <a target='_blank' href="https://github.com/thisiskannamma/kitchen-recipe-app.git"><GitHubIcon style={{ color: 'white' }} fontSize="large" /></a>
                                     </div>
                                 </div>
 
@@ -29,7 +29,7 @@ function Projects() {
                                     <p>Developed a construction Material App for ordering construction material for building Projects like dam,house,bridges,etc</p>
                                     <div className='anchor'>
                                         <a target='_blank' href="https://zesty-dasik-06bbcd.netlify.app/register"><LaunchIcon style={{ color: 'white' }} fontSize="large" /></a>
-                                        <a target='_blank' href=""><GitHubIcon style={{ color: 'white' }} fontSize="large" /></a>
+                                        <a target='_blank' href="https://github.com/thisiskannamma/E-commerce.git"><GitHubIcon style={{ color: 'white' }} fontSize="large" /></a>
                                     </div>
                                 </div>
                             </div>
