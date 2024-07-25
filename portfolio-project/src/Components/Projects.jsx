@@ -28,7 +28,7 @@ function Projects() {
                                     <h5>Construction Material App</h5>
                                     <p>Developed a construction Material App for ordering construction material for building Projects like dam,house,bridges,etc</p>
                                     <div className='anchor'>
-                                        <a target='_blank' href="https://669b663965092496d54a72f8--candid-biscochitos-ec0df5.netlify.app/register"><LaunchIcon style={{ color: 'white' }} fontSize="large" /></a>
+                                        <a target='_blank' href="https://669b6ff9b2a59430409e90df--zesty-dasik-06bbcd.netlify.app/register"><LaunchIcon style={{ color: 'white' }} fontSize="large" /></a>
                                         <a target='_blank' href=""><GitHubIcon style={{ color: 'white' }} fontSize="large" /></a>
                                     </div>
                                 </div>
