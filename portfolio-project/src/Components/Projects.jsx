@@ -25,16 +25,27 @@ function Projects() {
                             <div className='row'>
                                 <img src="https://png.pngtree.com/thumb_back/fh260/back_pic/03/99/34/9157f8a1aa03575.jpg" alt="image" />
                                 <div className='layer'>
-                                    <h5>Construction Material App</h5>
+                                    <h5>CONSTRUCTION MATERIAL APP</h5>
                                     <p>Developed a construction Material App for ordering construction material for building Projects like dam,house,bridges,etc</p>
                                     <div className='anchor'>
-                                        <a target='_blank' href="https://669b6ff9b2a59430409e90df--zesty-dasik-06bbcd.netlify.app/register"><LaunchIcon style={{ color: 'white' }} fontSize="large" /></a>
+                                        <a target='_blank' href="https://zesty-dasik-06bbcd.netlify.app/register"><LaunchIcon style={{ color: 'white' }} fontSize="large" /></a>
                                         <a target='_blank' href=""><GitHubIcon style={{ color: 'white' }} fontSize="large" /></a>
                                     </div>
                                 </div>
                             </div>
                             <div className='row'>
-                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrwqQztk9aDYa9YWVHS0rmrTHqrKaUi3mVmg&s" alt="image" />
+                                <img src="https://americanlibrariesmagazine.org/wp-content/uploads/2015/01/a03.jpg" alt="image" />
+                                <div className='layer'>
+                                    <h5>BOOK MANAGEMENT SYSTEM</h5>
+                                    <p>Developed a recipe management web app with CRUD operations for ingredient</p>
+                                    <div className='anchor'>
+                                        <a target='_blank' href="https://luminous-pastelito-7a01c8.netlify.app/"><LaunchIcon style={{ color: 'white' }} fontSize="large" /></a>
+                                        <a target='_blank' href="https://github.com/thisiskannamma/library-app.git"><GitHubIcon style={{ color: 'white' }} fontSize="large" /></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className='row'>
+                                <img src="https://americanlibrariesmagazine.org/wp-content/uploads/2015/01/a03.jpg" alt="image" />
                                 <div className='layer'>
                                     <h5>UI/UX Design</h5>
                                     <p>Developed a recipe management web app with CRUD operations for ingredient</p>
