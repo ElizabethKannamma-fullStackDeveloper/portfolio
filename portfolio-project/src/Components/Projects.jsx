@@ -26,9 +26,9 @@ function Projects() {
                                 <img src="https://png.pngtree.com/thumb_back/fh260/back_pic/03/99/34/9157f8a1aa03575.jpg" alt="image" />
                                 <div className='layer'>
                                     <h5>CONSTRUCTION MATERIAL APP</h5>
-                                    <p>Developed a construction Material App for ordering construction material for building Projects like dam,house,bridges,etc</p>
+                                    <p>Developed a construction Material App for ordering construction material for building Projects like dam,house,bridges,etc with PAYMENT integration</p>
                                     <div className='anchor'>
-                                        <a target='_blank' href="https://zesty-dasik-06bbcd.netlify.app/register"><LaunchIcon style={{ color: 'white' }} fontSize="large" /></a>
+                                        <a target='_blank' href="https://ephemeral-panda-4d1bc9.netlify.app/register"><LaunchIcon style={{ color: 'white' }} fontSize="large" /></a>
                                         <a target='_blank' href="https://github.com/thisiskannamma/E-commerce.git"><GitHubIcon style={{ color: 'white' }} fontSize="large" /></a>
                                     </div>
                                 </div>
@@ -37,7 +37,7 @@ function Projects() {
                                 <img src="https://americanlibrariesmagazine.org/wp-content/uploads/2015/01/a03.jpg" alt="image" />
                                 <div className='layer'>
                                     <h5>BOOK MANAGEMENT SYSTEM</h5>
-                                    <p>Developed a recipe management web app with CRUD operations for ingredient</p>
+                                    <p></p>
                                     <div className='anchor'>
                                         <a target='_blank' href="https://luminous-pastelito-7a01c8.netlify.app/"><LaunchIcon style={{ color: 'white' }} fontSize="large" /></a>
                                         <a target='_blank' href="https://github.com/thisiskannamma/library-app.git"><GitHubIcon style={{ color: 'white' }} fontSize="large" /></a>
@@ -45,13 +45,13 @@ function Projects() {
                                 </div>
                             </div>
                             <div className='row'>
-                                <img src="https://americanlibrariesmagazine.org/wp-content/uploads/2015/01/a03.jpg" alt="image" />
+                                <img src="https://img.lovepik.com/background/20211021/large/lovepik-real-estate-black-gold-poster-background-material-image_400244017.jpg" alt="image" />
                                 <div className='layer'>
-                                    <h5>UI/UX Design</h5>
+                                    <h5>Real Estate Property App</h5>
                                     <p>Developed a recipe management web app with CRUD operations for ingredient</p>
                                     <div className='anchor'>
-                                        <a target='_blank' href="https://65c200d593f7ee0008fd5995--zippy-sunflower-8dbb58.netlify.app/register"><LaunchIcon style={{ color: 'white' }} fontSize="large" /></a>
-                                        <a target='_blank' href="https://65c200d593f7ee0008fd5995--zippy-sunflower-8dbb58.netlify.app/register"><GitHubIcon style={{ color: 'white' }} fontSize="large" /></a>
+                                        <a target='_blank' href="https://glowing-squirrel-7b2303.netlify.app/"><LaunchIcon style={{ color: 'white' }} fontSize="large" /></a>
+                                        <a target='_blank' href="https://github.com/thisiskannamma/real-estate.git"><GitHubIcon style={{ color: 'white' }} fontSize="large" /></a>
                                     </div>
                                 </div>
                             </div>
