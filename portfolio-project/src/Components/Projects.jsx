@@ -31,7 +31,7 @@ function Projects() {
 
                                     <p>Developed a construction Material App for ordering construction material for building Projects like dam,house,bridges,etc with PAYMENT integration</p>
                                     <div className='anchor'>
-                                        <a target='_blank' href="https://ephemeral-panda-4d1bc9.netlify.app/register"><LaunchIcon style={{ color: 'white' }} fontSize="large" /></a>
+                                        <a target='_blank' href="https://ephemeral-panda-4d1bc9.netlify.app"><LaunchIcon style={{ color: 'white' }} fontSize="large" /></a>
                                         <a target='_blank' href="https://github.com/thisiskannamma/E-commerce.git"><GitHubIcon style={{ color: 'white' }} fontSize="large" /></a>
                                     </div>
                                 </div>
