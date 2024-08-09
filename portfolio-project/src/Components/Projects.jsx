@@ -17,7 +17,7 @@ function Projects() {
                                         <h4>MERN STACK PROJECT</h4>
                                     <p>Developed a recipe management web app with CRUD operations for ingredient</p>
                                     <div className='anchor'>
-                                        <a target='_blank' href="https://65c200d593f7ee0008fd5995--zippy-sunflower-8dbb58.netlify.app/register"><LaunchIcon style={{ color: 'white' }} fontSize="large" /></a>
+                                        <a target='_blank' href="https://zippy-sunflower-8dbb58.netlify.app/"><LaunchIcon style={{ color: 'white' }} fontSize="large" /></a>
                                         <a target='_blank' href="https://github.com/thisiskannamma/kitchen-recipe-app.git"><GitHubIcon style={{ color: 'white' }} fontSize="large" /></a>
                                     </div>
                                 </div>
