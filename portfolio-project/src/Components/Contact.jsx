@@ -16,9 +16,9 @@ function Contact() {
                     <li><i><PhoneInTalkIcon/></i>8667646051</li>
                 </div>
                 <div className='contact-icons'>
-                    <a href="https://www.linkedin.com/in/elizabeth-kannamma-100139292/"><LinkedInIcon /></a>
-                    <a href="https://github.com/thisiskannamma"><GitHubIcon /></a>
-                    <a href="elizabethkannamma@gmail.com"><MailIcon /></a>
+                    <a target='_blank' href="https://www.linkedin.com/in/elizabeth-kannamma-100139292/"><LinkedInIcon /></a>
+                    <a target='_blank' href="https://github.com/thisiskannamma"><GitHubIcon /></a>
+                    <a target='_blank' href="elizabethkannamma@gmail.com"><MailIcon /></a>
                 </div>
             </div>
 
