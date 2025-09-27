@@ -17,7 +17,7 @@ function Home() {
                                 autoStart: true,
                                 loop: true,
                                 delay: 50,
-                                strings: ["Full stack Developer", "MERN stack Developer", "Engineer"]
+                                strings: [ "Civil Engineer", "Architect","Software Developer"]
                             }}
                         />
                     </h3>
@@ -26,7 +26,7 @@ function Home() {
                         <a target="_blank" href="https://github.com/thisiskannamma"><GitHubIcon /></a>
                         <a target="_blank" href="elizabethkannamma@gmail.com"><MailIcon /></a>
                     </div>
-                    <a target='_blank' href="https://drive.google.com/file/d/1dgJTzhTbdQFajmiwoZg5FmWQvy-WLf8t/view?usp=sharing" className='btn-box'>Download CV</a>
+                    <a target='_blank' href="https://drive.google.com/file/d/135r5lagBLl20O1o8YYlq_YLZd1qUBFqb/view?usp=sharing" className='btn-box'>Download CV</a>
                     <a href="#about" className='btn-box'>More About Me</a>
                 </div>
             </section>

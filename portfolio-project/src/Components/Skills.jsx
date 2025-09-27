@@ -12,7 +12,7 @@ function Skills() {
                     <div className='Technical-bars'>
                         <div className='bar'><FontAwesomeIcon icon={faHtml5} />
                             <div className='info'>
-                                <span>HTML</span>
+                                <span>AUTOCAD</span>
                             </div>
                             <div className='progress-line html'>
                                 <span></span>
@@ -20,42 +20,42 @@ function Skills() {
                         </div>
                         <div className='bar'><FontAwesomeIcon icon={faCss3Alt} />
                             <div className='info'>
-                                <span>CSS</span>
+                                <span>REVIT</span>
                             </div>
                             <div className='progress-line css'>
                                 <span></span>
                             </div>
                         </div> <div className='bar'><FontAwesomeIcon icon={faJs} />
                             <div className='info'>
-                                <span>Javascript</span>
+                                <span>STAAD PRO</span>
                             </div>
                             <div className='progress-line javascript'>
                                 <span></span>
                             </div>
                         </div> <div className='bar'><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="25px"alt="MongoDB" />
                             <div className='info'>
-                                <span>MongoDB</span>
+                                <span>Sketchup</span>
                             </div>
                             <div className='progress-line MongoDB'>
                                 <span></span>
                             </div>
                         </div> <div className='bar'><img src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo-thumbnail.png" width="25px"alt="ExpressJS" />
                             <div className='info'>
-                                <span>Express</span>
+                                <span>MS EXCEL</span>
                             </div>
                             <div className='progress-line express'>
                                 <span></span>
                             </div>
                         </div> <div className='bar'><FontAwesomeIcon icon={faReact} />
                             <div className='info'>
-                                <span>Reactjs</span>
+                                <span>MS Office</span>
                             </div>
                             <div className='progress-line React'>
                                 <span></span>
                             </div>
                         </div> <div className='bar'><FontAwesomeIcon icon={faNodeJs} />
                             <div className='info'>
-                                <span>Nodejs</span>
+                                <span>MS WORD</span>
                             </div>
                             <div className='progress-line node'>
                                 <span></span>

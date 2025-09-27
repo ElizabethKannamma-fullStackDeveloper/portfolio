@@ -247,7 +247,7 @@ body {
 }
 
 .progress-line.css span {
-  width: 50%;
+  width: 90%;
 }
 
 .progress-line.javascript span {
@@ -288,7 +288,7 @@ body {
 }
 
 .progress-line.css span::after {
-  content: "50%";
+  content: "90%";
 }
 
 .progress-line.javascript span::after {

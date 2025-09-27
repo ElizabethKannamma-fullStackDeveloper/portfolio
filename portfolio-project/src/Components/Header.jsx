@@ -43,7 +43,7 @@ function Header() {
             duration={500} >Contact</Link>
 
 
-          <a target='_blank' href="https://drive.google.com/file/d/1dgJTzhTbdQFajmiwoZg5FmWQvy-WLf8t/view?usp=sharing">Resume</a>
+          <a target='_blank' href="https://drive.google.com/file/d/135r5lagBLl20O1o8YYlq_YLZd1qUBFqb/view?usp=sharing">Resume</a>
 
         </nav>
       </header>
